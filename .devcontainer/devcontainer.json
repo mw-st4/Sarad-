@@ -1,0 +1,1 @@
+{\n  "version": "1.0",\n  "name": "Node.js 18",\n  "settings": {},\n  "extensions": [\n    "ms-azuretools.vscode-docker",\n    "esbenp.prettier-vscode",\n    "dbaeumer.vscode-eslint"\n  ],\n  "forwardPorts": [3000, 19006],\n  "postCreateCommand": "npm install"\n}
